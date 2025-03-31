@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "67e1021377e6c2b25af8dea6"
+  },
+  "username": "admin_user",
+  "password": "$2b$10$Cw4UuO7x4/4OMcHvSg3Fv.SQ/MjAVUBQ7dXEtQTyWKJzPFXtaLoXm",
+  "email": "admin@example.com",
+  "fullName": "Nguyen Van Admin",
+  "imgURL": "https://example.com/admin.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e0ffcbe5c816e67eb3f727"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1021377e6c2b25af8dea7"
+  },
+  "username": "editor_user",
+  "password": "$2b$10$WVigoX6n0fdCVJx5YubnXeegM7wsGnk.vAt7AQTLBMushtmfbX4J.",
+  "email": "editor@example.com",
+  "fullName": "Tran Thi Editor",
+  "imgURL": "https://example.com/editor.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e0ffcbe5c816e67eb3f72a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e1021377e6c2b25af8dea8"
+  },
+  "username": "viewer_user",
+  "password": "$2b$10$P5opykk3WhdnsV4Zs86FYu3VKUW4BgRT44rt01hdSJLHHh9Bn7k4C",
+  "email": "viewer@example.com",
+  "fullName": "Le Van Viewer",
+  "imgURL": "https://example.com/viewer.jpg",
+  "status": false,
+  "loginCount": 0,
+  "role": {
+    "$oid": "67e0ffcbe5c816e67eb3f72d"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-24T06:56:19.953Z"
+  }
+}]
